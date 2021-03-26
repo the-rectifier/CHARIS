@@ -2,7 +2,7 @@
 
 Charis is a CHARISA assembler/disassembler written in Python
 
-**CHARISA** stands for **CH**ania **R**educed **I**nstruction **S**et **A**rchitecture and it's the instruction set of a MIPS like CPU for the Project of the Computer Organization Course (ACE312) at the Technical University of Crete. 
+**CHARISA** stands for **CHA**nia **R**educed **I**nstruction **S**et **A**rchitecture and it's the instruction set of a MIPS like CPU for the Project of the Computer Organization Course (ACE312) at the Technical University of Crete. 
 
 ## Usage:
 ```python charis.py [-a] OR [-d] file```

@@ -14,7 +14,7 @@ Charis is a CHARISA assembler/disassembler written in Python
 - 2 Types of Instructions (R/I Type)
 - Instructions **Always** 32 bits in length
 - ALU Operations include: ```add, sub, nand, not, or, sra, sll, srl, ror, rol, li, addi, nandi, ori```
-- 3 Typed of Branching Instructions: ```b, bne, beq```
+- 3 Typeσ of Branching Instructions: ```b, bne, beq```
 - 4 L/S Instructions: ```lw, sw, lb, sb```
 - Byte addressable memory
 

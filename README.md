@@ -47,7 +47,7 @@ b 0x1
 beq r0, r0, 0x4
 ```
 
-Check [```example.asm```]() for all instructions.
+Check [```example.asm```](https://github.com/the-rectifier/CHARIS/blob/master/example.asm) for all instructions.
 
-[RTL notation for each instruction]()
+[RTL notation for each instruction](https://github.com/the-rectifier/CHARIS/blob/master/CHARISA%20_RTL.pdf)
 

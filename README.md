@@ -4,6 +4,9 @@ Charis is a CHARISA assembler/disassembler written in Python
 
 **CHARISA** stands for **CH**ania **R**educed **I**nstruction **S**et **A**rchitecture and it's the instruction set of a MIPS like CPU for the Project of the Computer Organization Project (ACE312) at the Technical University of Crete. 
 
+## Usage:
+```python charis.py [-a] OR [-d] file```
+
 ## CPU Architecture:
 
 - ```R0``` is a 32-bit integer Hardwired to ```0```

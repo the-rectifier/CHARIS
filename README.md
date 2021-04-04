@@ -9,7 +9,7 @@ Charis is a CHARISA assembler/disassembler written in Python
 
 ## CPU Architecture:
 
-- ```R0``` is a 32-bit integer Hardwired to ```0```
+- ```R0``` is a 32-bit Register Hardwired to ```0```
 - 31 32-bit General Purpose Registers ```R1-R31```
 - 2 Types of Instructions (R/I Type)
 - Instructions **Always** 32 bits in length
